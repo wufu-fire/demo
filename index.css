@@ -1,0 +1,35 @@
+.self-form {
+    margin-top: 14px !important;
+}
+
+.self-header {
+    margin-top: 17px;
+}
+
+.self-navs {
+    margin-top: 24px;
+    background-color: bisque;
+}
+
+.self-navs li a {
+    color: black !important;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.self-navs li a:hover {
+    color: red!important;
+    font-size: 50px;
+}
+
+#carousel-example-generic {
+    height: 350px;
+}
+
+.parent-li .active {
+    background-color: red !important;
+}
+
+img {
+    width: 100%;
+}
